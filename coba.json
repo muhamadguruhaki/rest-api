@@ -1,0 +1,24 @@
+[
+    {
+        "nama" : "Muhama Guruh",
+        "umur" : 21,
+        "nim" : "18810081",
+        "lulus" : true,
+        "hobby" : ["codding", "gaming"],
+        "pembimbing" : { 
+            "pembimbing1": "Hafid",
+            "pembimbing2" : "Yenni"
+        }
+    },
+    {
+        "nama" : "Muhama Guruh",
+        "umur" : 21,
+        "nim" : "18810081",
+        "lulus" : true,
+        "hobby" : ["codding", "gaming"],
+        "pembimbing" : { 
+            "pembimbing1": "Hafid",
+            "pembimbing2" : "Yenni"
+        }
+    }
+]
